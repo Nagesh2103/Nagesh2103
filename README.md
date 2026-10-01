@@ -86,12 +86,7 @@ Modular Python application for automated cleaning of CSV, Excel, and JSON datase
 
 ---
 
-## 📊 GitHub Stats
 
-![Nagesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact)
-
----
 
 ## 🤝 Let's Connect
 
