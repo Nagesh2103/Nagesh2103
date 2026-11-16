@@ -44,6 +44,7 @@ I build LLM-powered applications, RAG pipelines, and data-driven solutions with 
 | **Machine Learning** | Scikit-learn, Random Forest, Gradient Boosting, XGBoost, Linear Regression, Model Training & Evaluation, Feature Engineering |
 | **Python Libraries** | Pandas, NumPy, Matplotlib, Seaborn |
 | **Database** | SQL |
+| **Backend**| FastAPI|RestAPI
 | **Version Control** | Git, GitHub |
 
 ---
